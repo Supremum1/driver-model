@@ -34,7 +34,7 @@ $$
 ![](framework_driver_view.png)
 
 Обзорный доклад по данной теме представлен на спецсеминаре моей кафедры системного анализа:
-![](presentation.pdf)
+https://github.com/Supremum1/driver-model/blob/main/presentation.pdf
 
 ## Литература
 
